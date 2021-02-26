@@ -1,0 +1,105 @@
+2021-02-25T15:51:53,987-0500 [89520 1] com.newrelic INFO: Writing to New Relic log file: /Users/b008967/newrelic/logs/newrelic_agent.log
+2021-02-25T15:51:53,987-0500 [89520 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.6
+2021-02-25T15:51:53,987-0500 [89520 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.6+8-LTS
+2021-02-25T15:51:53,988-0500 [89520 1] com.newrelic INFO: OS Mac OS X version 10.14.6 arch x86_64
+2021-02-25T15:51:53,988-0500 [89520 1] com.newrelic INFO: Agent Host: A05063994 IP: 10.0.0.164
+2021-02-25T15:51:53,988-0500 [89520 1] com.newrelic INFO: New Relic Agent v6.4.1 is initializing...
+2021-02-25T15:51:54,679-0500 [89520 13] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-02-25T15:51:55,363-0500 [89520 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-02-25T15:51:55,588-0500 [89520 1] com.newrelic INFO: Setting audit_mode to false
+2021-02-25T15:51:55,705-0500 [89520 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/b008967/newrelic/./newrelic.yml
+2021-02-25T15:51:55,710-0500 [89520 1] com.newrelic INFO: New Relic Agent v6.4.1 has started
+2021-02-25T15:51:55,710-0500 [89520 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7d0587f1
+2021-02-25T15:51:55,710-0500 [89520 1] com.newrelic INFO: Premain startup complete in 2,423ms
+2021-02-25T15:51:59,453-0500 [89520 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.33
+2021-02-25T15:52:05,713-0500 [89520 37] com.newrelic INFO: Host name is A05063994, display host A05063994 for application Ankit_POC
+2021-02-25T15:52:06,273-0500 [89520 37] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-02-25T15:52:06,639-0500 [89520 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-02-25T15:52:06,639-0500 [89520 37] com.newrelic INFO: Agent run id: BcpKInr6wGn7AC7uLhqkwfdgOA5oAAIBAAAnIQEAAV2wAgQapMH1AwAFNi40LjEACUEwNTA2Mzk5NAAJQW5raXRfUE9D
+2021-02-25T15:52:06,639-0500 [89520 37] com.newrelic INFO: Agent 89520@A05063994/Ankit_POC connected to collector.newrelic.com:443
+2021-02-25T15:52:06,640-0500 [89520 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3075630/applications/447005173
+2021-02-25T15:52:06,641-0500 [89520 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-25T15:52:06,643-0500 [89520 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-25T15:52:06,942-0500 [89520 37] com.newrelic INFO: Real user monitoring is enabled for application Ankit_POC. Auto instrumentation is enabled.
+2021-02-25T15:55:07,666-0500 [89520 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-02-25T15:55:07,691-0500 [89520 288] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@15d0b0f7 tried to finish but ServiceManager not started
+2021-02-25T15:55:07,773-0500 [89520 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-02-25T15:56:29,102-0500 [89618 1] com.newrelic INFO: Writing to New Relic log file: /Users/b008967/newrelic/logs/newrelic_agent.log
+2021-02-25T15:56:29,103-0500 [89618 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.6
+2021-02-25T15:56:29,103-0500 [89618 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.6+8-LTS
+2021-02-25T15:56:29,103-0500 [89618 1] com.newrelic INFO: OS Mac OS X version 10.14.6 arch x86_64
+2021-02-25T15:56:29,103-0500 [89618 1] com.newrelic INFO: Agent Host: A05063994 IP: 10.0.0.164
+2021-02-25T15:56:29,103-0500 [89618 1] com.newrelic INFO: New Relic Agent v6.4.1 is initializing...
+2021-02-25T15:56:29,588-0500 [89618 13] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-02-25T15:56:30,115-0500 [89618 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-02-25T15:56:30,325-0500 [89618 1] com.newrelic INFO: Setting audit_mode to false
+2021-02-25T15:56:30,425-0500 [89618 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/b008967/newrelic/./newrelic.yml
+2021-02-25T15:56:30,429-0500 [89618 1] com.newrelic INFO: New Relic Agent v6.4.1 has started
+2021-02-25T15:56:30,429-0500 [89618 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7d0587f1
+2021-02-25T15:56:30,429-0500 [89618 1] com.newrelic INFO: Premain startup complete in 1,826ms
+2021-02-25T15:56:33,239-0500 [89618 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.33
+2021-02-25T15:56:35,431-0500 [89618 37] com.newrelic INFO: Host name is A05063994, display host A05063994 for application Ankit_POC
+2021-02-25T15:56:35,890-0500 [89618 37] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-02-25T15:56:36,213-0500 [89618 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-02-25T15:56:36,213-0500 [89618 37] com.newrelic INFO: Agent run id: BeEyuFW0dVxRAC7uLhqkwfdgOA9YAAIBAAAnIQEAAV4SAgQapMH1AwAFNi40LjEACUEwNTA2Mzk5NAAJQW5raXRfUE9D
+2021-02-25T15:56:36,213-0500 [89618 37] com.newrelic INFO: Agent 89618@A05063994/Ankit_POC connected to collector.newrelic.com:443
+2021-02-25T15:56:36,214-0500 [89618 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3075630/applications/447005173
+2021-02-25T15:56:36,215-0500 [89618 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-25T15:56:36,216-0500 [89618 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-25T15:56:36,328-0500 [89618 37] com.newrelic INFO: Real user monitoring is enabled for application Ankit_POC. Auto instrumentation is enabled.
+2021-02-25T20:04:43,715-0500 [89618 290] com.newrelic INFO: Remote get_agent_commands call failed : javax.net.ssl.SSLException: Operation timed out (Read failed).
+2021-02-25T20:06:00,630-0500 [89618 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-02-25T20:06:00,654-0500 [89618 288] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@283c2b21 tried to finish but ServiceManager not started
+2021-02-25T20:06:00,817-0500 [89618 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-02-25T20:06:56,855-0500 [92522 1] com.newrelic INFO: Writing to New Relic log file: /Users/b008967/newrelic/logs/newrelic_agent.log
+2021-02-25T20:06:56,856-0500 [92522 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.6
+2021-02-25T20:06:56,856-0500 [92522 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.6+8-LTS
+2021-02-25T20:06:56,856-0500 [92522 1] com.newrelic INFO: OS Mac OS X version 10.14.6 arch x86_64
+2021-02-25T20:06:56,856-0500 [92522 1] com.newrelic INFO: Agent Host: A05063994 IP: 10.0.0.164
+2021-02-25T20:06:56,856-0500 [92522 1] com.newrelic INFO: New Relic Agent v6.4.1 is initializing...
+2021-02-25T20:06:57,433-0500 [92522 13] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-02-25T20:06:58,096-0500 [92522 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-02-25T20:06:58,314-0500 [92522 1] com.newrelic INFO: Setting audit_mode to false
+2021-02-25T20:06:58,432-0500 [92522 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/b008967/newrelic/./newrelic.yml
+2021-02-25T20:06:58,438-0500 [92522 1] com.newrelic INFO: New Relic Agent v6.4.1 has started
+2021-02-25T20:06:58,439-0500 [92522 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7d0587f1
+2021-02-25T20:06:58,439-0500 [92522 1] com.newrelic INFO: Premain startup complete in 2,174ms
+2021-02-25T20:07:01,530-0500 [92522 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.33
+2021-02-25T20:07:08,444-0500 [92522 37] com.newrelic INFO: Host name is A05063994, display host A05063994 for application Ankit_POC
+2021-02-25T20:07:09,962-0500 [92522 37] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-02-25T20:07:10,280-0500 [92522 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-02-25T20:07:10,280-0500 [92522 37] com.newrelic INFO: Agent run id: BTIuZ2TSa0nhAC7uLhqkwfdgOEosAAIBAAAnIQEAAWlqAgQapMH1AwAFNi40LjEACUEwNTA2Mzk5NAAJQW5raXRfUE9D
+2021-02-25T20:07:10,281-0500 [92522 37] com.newrelic INFO: Agent 92522@A05063994/Ankit_POC connected to collector.newrelic.com:443
+2021-02-25T20:07:10,281-0500 [92522 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3075630/applications/447005173
+2021-02-25T20:07:10,282-0500 [92522 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-25T20:07:10,284-0500 [92522 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-25T20:07:10,550-0500 [92522 37] com.newrelic INFO: Real user monitoring is enabled for application Ankit_POC. Auto instrumentation is enabled.
+2021-02-25T20:10:29,713-0500 [92522 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-02-25T20:10:29,741-0500 [92522 288] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@65b9bc19 tried to finish but ServiceManager not started
+2021-02-25T20:10:29,903-0500 [92522 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-02-26T08:55:22,405-0500 [879 1] com.newrelic INFO: Writing to New Relic log file: /Users/b008967/Downloads/SpringBoot-H2-Database/newrelic/logs/newrelic_agent.log
+2021-02-26T08:55:22,405-0500 [879 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.6
+2021-02-26T08:55:22,406-0500 [879 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.6+8-LTS
+2021-02-26T08:55:22,406-0500 [879 1] com.newrelic INFO: OS Mac OS X version 10.14.6 arch x86_64
+2021-02-26T08:55:22,406-0500 [879 1] com.newrelic INFO: Agent Host: A05063994 IP: 10.0.0.164
+2021-02-26T08:55:22,406-0500 [879 1] com.newrelic INFO: New Relic Agent v6.4.1 is initializing...
+2021-02-26T08:55:22,876-0500 [879 13] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-02-26T08:55:23,473-0500 [879 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-02-26T08:55:23,640-0500 [879 1] com.newrelic INFO: Setting audit_mode to false
+2021-02-26T08:55:23,733-0500 [879 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/b008967/Downloads/SpringBoot-H2-Database/newrelic/./newrelic.yml
+2021-02-26T08:55:23,737-0500 [879 1] com.newrelic INFO: New Relic Agent v6.4.1 has started
+2021-02-26T08:55:23,737-0500 [879 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7d0587f1
+2021-02-26T08:55:23,737-0500 [879 1] com.newrelic INFO: Premain startup complete in 1,819ms
+2021-02-26T08:55:27,055-0500 [879 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.41
+2021-02-26T08:55:33,742-0500 [879 37] com.newrelic INFO: Host name is A05063994, display host A05063994 for application Ankit_POC
+2021-02-26T08:55:34,202-0500 [879 37] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2021-02-26T08:55:34,529-0500 [879 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-02-26T08:55:34,530-0500 [879 37] com.newrelic INFO: Agent run id: BXW57e6SC0SHAC7uLhqspyxgOP4sAAIBAAAnIQEAAANvAgQapMH1AwAFNi40LjEACUEwNTA2Mzk5NAAJQW5raXRfUE9D
+2021-02-26T08:55:34,530-0500 [879 37] com.newrelic INFO: Agent 879@A05063994/Ankit_POC connected to collector.newrelic.com:443
+2021-02-26T08:55:34,531-0500 [879 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3075630/applications/447005173
+2021-02-26T08:55:34,532-0500 [879 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-26T08:55:34,534-0500 [879 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-02-26T08:55:34,636-0500 [879 37] com.newrelic INFO: Real user monitoring is enabled for application Ankit_POC. Auto instrumentation is enabled.
+2021-02-26T09:19:06,995-0500 [879 12] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-02-26T09:19:07,011-0500 [879 41] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@2d5d5c06 tried to finish but ServiceManager not started
+2021-02-26T09:19:07,152-0500 [879 12] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
